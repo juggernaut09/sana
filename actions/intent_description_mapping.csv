@@ -1,0 +1,21 @@
+intent,button,entities
+affirm,Yes,
+bye,Bye!,
+canthelp,You can't help me.,
+inform,The email is {email}email,
+inform,mobile is {mobile}mobile,
+inform{name}name,
+greet,"Say ""Hi!"" ",
+thank,Thanks!,
+out_of_scope/other,Out of scope question.,
+out_of_scope/non_english,I'm speaking a non-english language.,
+contactus,How to contact?.,
+recent_stories,What are your recent stories?
+impact_industries,What industries are impacted by Vitwit?
+core_offerings,what does vitwit provide as core offerings?
+faq/about_cto,Vitwit Chief Technology Officer
+faq/about_ceo,who is the CEO of vitwit?
+faq/about_vitwit,what is the goal of vitwit?
+artificial_intelligence,What Artificial Intelligence Services does Vitwit Provide?
+block_chain,What Block chain services does Vitwit Provide?
+cloud,What does Vitwit provide services in Big Data?

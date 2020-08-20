@@ -1,0 +1,169 @@
+## intent:faq/about_vitwit
+- what is the work of vitwt?
+- what is the goal of vitwit?
+- what vitwit is up to?
+- what does vitwit do?
+- more about vitwit.
+- tell me more about vitwit.
+- what vitwit does?
+- tell me about vitwit
+- what is vitwit?
+- about Vitwit
+- what are the goals of Viwit?
+- about us
+
+## intent:faq/about_ceo
+- who is the cheif executive officer of vitwit?
+- Vitwit Chief executive officer.
+- cheif executive officer of vitwit
+- CEO vitwit
+- ceo
+- vitwit ceo
+- who is the CEO of vitwit?
+- who is the ceo of Vitwit?
+- I want to know who is the ceo of Viwtit?
+- who is the ceo of vitwit?
+- who is the Cheif executive officer of Vitiwit?
+- ceo of Vitwit?
+- CEO of VItwit?
+- chief executive officer of Vitwit?
+
+## intent:faq/about_cto
+- Vitwt CTO
+- CTO Vitwit
+- Chief Technology Officer Vitwit
+- Vitwit Chief Technology Officer
+- Cheif technology Officer Vitwit
+- who is chief technology Officer?
+- who is CTO?
+- tell me about CTO?
+- tell me about the CTO of vitwit?
+- Chief technology officer of Vitwit?
+- CTO of Vitwit?
+- who is the Cheif technology officer of Vitwit?
+- Who is the CTO of Vitwit?
+- who is the cto of vitwit?
+- who is the cto of Vitwit?
+- Vitwit cto
+- and CTO
+- cto of Vitwit?
+
+## intent:core_offerings
+- what does vitwit provide as core offerings?
+- what core offerings are provided by vitwit?
+- core offerings vitwit?
+- what are the core offerings of vitwit?
+- vitwit core offerings?
+- core offerings of vitwit?
+- core offerings?
+- what are your core offerings?
+- what are core offerings
+- what are the core offerings provided by Vitwit?
+- what are the core offerings?
+- what are the core offerings of Vitwit?
+- core offerings of Vitwit?
+- what are the core offerings ?
+- what ai services are provided by Vitwit?
+- core offerings
+
+## intent:impact_industries
+- What industries are impacted by Vitwit?
+- Industries impacted
+- what are the industries impacted by Vitwit?
+- industries imapacted by the vitwit?
+- possible industries impacted by Vitwit?
+- what are the possible industries impacted by Vitwit?
+- impacted industries
+- what are the industries you impacted
+- what are the industries impacted
+- industries we impact
+- industries
+- what are the industries you impact
+- industries impacted
+- industries impacted by Vitwit?
+
+## intent:recent_stories
+- What are your recent stories?
+- recent stories of Vitwit?
+- recent stories
+- do you have any recent stories?
+- Published any papers?
+- Does vitwit have any recent stories?
+- Does Vitwit have any recent published stories?
+- Are there any recent stories on Vitwit?
+- are there any recent published stories by Vitwit?
+- Did vitwit publish any stories or articles?
+- what are your recent stories?
+- what are the recent stories You did?
+- what are recent published stories of Vitwit?
+- what are the recent published stories of Vitwit?
+- any publications?
+- publications
+- medium articles
+
+## intent:contact_us
+- I want to apply for job.
+- How to contact?
+- How to contact you guys?
+- how to reach out Vitwit?
+- how to contact Vitwit?
+- contact
+- how to contact you guys?
+- How to contact you ?
+- I want to contact your HR
+- I want to contact your HR?
+- contact HR
+- contact us
+
+## intent:inform
+- Hi my name is [Venkt teja Ravi](name)
+- my name is [Kapish yadav Banda](name)
+- [Lingamurthy maadaraboina](name)
+- [anil kumar kammari](name)
+- [Tanvi Vendarthi](name)
+- my self [sai kumar gangaseni](name)
+- [sahith narahari](name)
+- [sahithi madhavapedi](name)
+- [soumith reddy kunduri](name)
+- [soumya shetty](name)
+- [pravlika nakkala](name)
+- [jasdeep singh](name)
+- [prathyusha lakkireddy](name)
+- [siddharth mandava](name)
+- I am [Christina Sullivan](name)
+- I am [Hattie Rice](name)
+- I am [Robert Starks](name)
+- My name is [Ashleigh Mees](name)
+- My name is [chelsea Parker](name)
+- My name is [jessie maglione](name)
+- My name is [Kenneth Sherman](name)
+- My name is [Lee George](name)
+- My name is [Louise Caudill](name)
+- My name is [Richard smith](name)
+- My name is [Shane Goodyear](name)
+- My name is [Sondra Boyd](name)
+- My name si [tom Harbin](name)
+- [Im Phyllis Howard](name)
+- [Jamie Moore](name)
+- [Jane Baines](name)
+- [John Strickland](name)
+- [Keith Donnell](name) PhD
+- [Linda Mchone](name)
+- [Lithuanian](language)
+- [Michele Perry](name)
+- [Michelle Garcia](name)
+- [Michelle Vinion](name)
+- [Mr. Sweney](name)
+- My email is [teja@vitwit.com](email)
+- email ID is [kiraakrp@vitwit.com](email)
+- [J_Herrera@gmail.com](email)
+- [K_Claytor@yahoo.com](email)
+- [K_Rainey@Yochum.net](email)
+- [Kristin@yahoo.com](email)
+- my mobile number is [+917658935718](mobile)
+- [+91 7658935718](mobile)
+- [+91 2563789058](mobile)
+- [+912563785903](mobile)
+- [7483950389](mobile)
+- [74859607539](mobile)
+- [+14738598048](mobile)
