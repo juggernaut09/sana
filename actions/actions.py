@@ -31,14 +31,6 @@ class ActionGetStarted(Action):
 
         buttons=[]
         buttons.append({
-            "title": "About CEO",
-            "payload": "CEO"
-        })
-        buttons.append({
-            "title": "About CTO",
-            "payload": "CTO"
-        })
-        buttons.append({
             "title": "about us",
             "payload": "about us"
         })
